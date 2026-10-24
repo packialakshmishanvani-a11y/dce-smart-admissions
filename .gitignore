@@ -1,0 +1,15 @@
+node_modules/
+.next/
+out/
+coverage/
+playwright-report/
+test-results/
+*.tsbuildinfo
+next-env.d.ts
+.DS_Store
+npm-debug.log*
+
+# Secrets: never commit real keys or webhook URLs
+.env
+.env.local
+.env.*.local

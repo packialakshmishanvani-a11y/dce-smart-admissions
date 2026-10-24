@@ -1,0 +1,527 @@
+[
+  {
+    "id": "FAQ-001",
+    "category": "Courses",
+    "group": "Courses",
+    "question": "What undergraduate engineering programmes does DCE offer?",
+    "answer": "The admissions page lists B.Tech Artificial Intelligence and Data Science, B.Tech Information Technology, B.E. Computer Science and Engineering, B.E. CSE (Artificial Intelligence and Machine Learning), B.E. CSE (Cyber Security), B.E. Electrical and Electronics Engineering, B.E. Electronics and Communication Engineering, and B.E. Mechanical Engineering.",
+    "sourceUrl": "https://dce.edu.in/admissions-dce/",
+    "sourceUrls": [
+      "https://dce.edu.in/admissions-dce/"
+    ],
+    "verificationStatus": "Verified against admissions page",
+    "verificationLevel": "verified"
+  },
+  {
+    "id": "FAQ-002",
+    "category": "Courses",
+    "group": "Courses",
+    "question": "Does DCE offer postgraduate programmes?",
+    "answer": "Yes. The admissions page lists M.E. Computer Science and Engineering, M.E. CAD/CAM, and M.E. Embedded Systems and Technologies.",
+    "sourceUrl": "https://dce.edu.in/admissions-dce/",
+    "sourceUrls": [
+      "https://dce.edu.in/admissions-dce/"
+    ],
+    "verificationStatus": "Verified against admissions page",
+    "verificationLevel": "verified"
+  },
+  {
+    "id": "FAQ-003",
+    "category": "Courses",
+    "group": "Courses",
+    "question": "Where can I check the full programme details?",
+    "answer": "Use the programme links on the official DCE website or contact the Admissions Office if a programme page is unavailable.",
+    "sourceUrl": "https://dce.edu.in/admissions-dce/",
+    "sourceUrls": [
+      "https://dce.edu.in/admissions-dce/"
+    ],
+    "verificationStatus": "Verified against admissions page",
+    "verificationLevel": "verified"
+  },
+  {
+    "id": "FAQ-004",
+    "category": "Admissions",
+    "group": "Admissions",
+    "question": "What admission routes does DCE list?",
+    "answer": "The admissions page lists TNEA, Management Quota, Lateral Entry, and Sports Quota. Applicants should confirm which route applies to them.",
+    "sourceUrl": "https://dce.edu.in/admissions-dce/",
+    "sourceUrls": [
+      "https://dce.edu.in/admissions-dce/"
+    ],
+    "verificationStatus": "Verified against admissions page",
+    "verificationLevel": "verified"
+  },
+  {
+    "id": "FAQ-005",
+    "category": "Admissions",
+    "group": "Admissions",
+    "question": "What is DCE's TNEA counselling code?",
+    "answer": "The DCE admissions page lists TNEA code 1405. Confirm it in the current official counselling materials before applying.",
+    "sourceUrl": "https://dce.edu.in/admissions-dce/",
+    "sourceUrls": [
+      "https://dce.edu.in/admissions-dce/"
+    ],
+    "verificationStatus": "Verified; reconfirm with current TNEA materials",
+    "verificationLevel": "verified"
+  },
+  {
+    "id": "FAQ-006",
+    "category": "Admissions",
+    "group": "Admissions",
+    "question": "How do I apply through TNEA?",
+    "answer": "DCE describes the TNEA process as online registration, application payment, choice filling, seat allotment, and confirmation. Follow the current official TNEA instructions.",
+    "sourceUrl": "https://dce.edu.in/admissions-dce/",
+    "sourceUrls": [
+      "https://dce.edu.in/admissions-dce/",
+      "https://www.tneaonline.org/"
+    ],
+    "verificationStatus": "Verified; current process should be checked on TNEA",
+    "verificationLevel": "verified"
+  },
+  {
+    "id": "FAQ-007",
+    "category": "Admissions",
+    "group": "Admissions",
+    "question": "Where do I register for TNEA?",
+    "answer": "Use the official Tamil Nadu Engineering Admissions website and follow the current year's instructions.",
+    "sourceUrl": "https://www.tneaonline.org/",
+    "sourceUrls": [
+      "https://www.tneaonline.org/"
+    ],
+    "verificationStatus": "Official external source; check current cycle",
+    "verificationLevel": "verified"
+  },
+  {
+    "id": "FAQ-008",
+    "category": "Admissions",
+    "group": "Admissions",
+    "question": "Does DCE accept management quota applications?",
+    "answer": "The DCE admissions page states that management quota admissions are available subject to prescribed eligibility and regulatory norms. Contact the college for the current procedure.",
+    "sourceUrl": "https://dce.edu.in/admissions-dce/",
+    "sourceUrls": [
+      "https://dce.edu.in/admissions-dce/"
+    ],
+    "verificationStatus": "Verified against admissions page",
+    "verificationLevel": "verified"
+  },
+  {
+    "id": "FAQ-009",
+    "category": "Admissions",
+    "group": "Admissions",
+    "question": "Is lateral entry available for diploma holders?",
+    "answer": "DCE states that eligible diploma holders may apply for direct entry into the second year, subject to the applicable guidelines and counselling process.",
+    "sourceUrl": "https://dce.edu.in/admissions-dce/",
+    "sourceUrls": [
+      "https://dce.edu.in/admissions-dce/"
+    ],
+    "verificationStatus": "Verified against admissions page",
+    "verificationLevel": "verified"
+  },
+  {
+    "id": "FAQ-010",
+    "category": "Admissions",
+    "group": "Admissions",
+    "question": "Does DCE have a sports quota?",
+    "answer": "The admissions page lists a Sports Quota route for eligible candidates with recognized sports achievements, subject to verification and applicable norms.",
+    "sourceUrl": "https://dce.edu.in/admissions-dce/",
+    "sourceUrls": [
+      "https://dce.edu.in/admissions-dce/"
+    ],
+    "verificationStatus": "Verified against admissions page",
+    "verificationLevel": "verified"
+  },
+  {
+    "id": "FAQ-011",
+    "category": "Eligibility",
+    "group": "Eligibility",
+    "question": "What is the general eligibility for undergraduate admission?",
+    "answer": "The DCE admissions page says applicants must have passed HSC or an equivalent examination and meet the prescribed subject and minimum-mark requirements. Verify the current official rules for your category and route.",
+    "sourceUrl": "https://dce.edu.in/admissions-dce/",
+    "sourceUrls": [
+      "https://dce.edu.in/admissions-dce/"
+    ],
+    "verificationStatus": "Partially verified; confirm current regulations",
+    "verificationLevel": "partial"
+  },
+  {
+    "id": "FAQ-012",
+    "category": "Eligibility",
+    "group": "Eligibility",
+    "question": "Which subjects are mentioned for undergraduate eligibility?",
+    "answer": "The DCE admissions page identifies Mathematics, Physics, and Chemistry for the listed HSC academic eligibility criteria. Other qualifying pathways may have different rules.",
+    "sourceUrl": "https://dce.edu.in/admissions-dce/",
+    "sourceUrls": [
+      "https://dce.edu.in/admissions-dce/"
+    ],
+    "verificationStatus": "Partially verified; confirm current regulations",
+    "verificationLevel": "partial"
+  },
+  {
+    "id": "FAQ-013",
+    "category": "Eligibility",
+    "group": "Eligibility",
+    "question": "What minimum marks are required for OC/general category applicants?",
+    "answer": "The DCE page lists 45% aggregate in Mathematics, Physics, and Chemistry for the general/OC category. Confirm the current official counselling brochure before relying on this.",
+    "sourceUrl": "https://dce.edu.in/admissions-dce/",
+    "sourceUrls": [
+      "https://dce.edu.in/admissions-dce/"
+    ],
+    "verificationStatus": "Needs current-year verification",
+    "verificationLevel": "unverified"
+  },
+  {
+    "id": "FAQ-014",
+    "category": "Eligibility",
+    "group": "Eligibility",
+    "question": "What minimum marks are required for reserved categories?",
+    "answer": "The DCE page lists 40% for several reserved categories in the specified subjects. Category definitions and applicable rules must be checked against the current official guidelines.",
+    "sourceUrl": "https://dce.edu.in/admissions-dce/",
+    "sourceUrls": [
+      "https://dce.edu.in/admissions-dce/"
+    ],
+    "verificationStatus": "Needs current-year verification",
+    "verificationLevel": "unverified"
+  },
+  {
+    "id": "FAQ-015",
+    "category": "Eligibility",
+    "group": "Eligibility",
+    "question": "Can HSC vocational students apply?",
+    "answer": "The DCE page includes eligibility information for HSC vocational candidates. Check the current official rules for the relevant vocational subjects and minimum marks.",
+    "sourceUrl": "https://dce.edu.in/admissions-dce/",
+    "sourceUrls": [
+      "https://dce.edu.in/admissions-dce/"
+    ],
+    "verificationStatus": "Needs current-year verification",
+    "verificationLevel": "unverified"
+  },
+  {
+    "id": "FAQ-016",
+    "category": "Eligibility",
+    "group": "Eligibility",
+    "question": "What are the current age limits for TNEA applicants?",
+    "answer": "The DCE page contains an age-limit statement referring to TNEA 2025. Do not rely on it for the 2026 cycle without checking the current TNEA brochure.",
+    "sourceUrl": "https://dce.edu.in/admissions-dce/",
+    "sourceUrls": [
+      "https://dce.edu.in/admissions-dce/",
+      "https://www.tneaonline.org/"
+    ],
+    "verificationStatus": "Needs human verification; page references 2025",
+    "verificationLevel": "unverified"
+  },
+  {
+    "id": "FAQ-017",
+    "category": "Eligibility",
+    "group": "Eligibility",
+    "question": "What are the eligibility rules for postgraduate programmes?",
+    "answer": "DCE lists qualifying-degree pathways and minimum-mark criteria for postgraduate programmes. Requirements vary by qualification and category; consult the current official criteria or admissions office.",
+    "sourceUrl": "https://dce.edu.in/admissions-dce/",
+    "sourceUrls": [
+      "https://dce.edu.in/admissions-dce/"
+    ],
+    "verificationStatus": "Needs programme-specific verification",
+    "verificationLevel": "unverified"
+  },
+  {
+    "id": "FAQ-018",
+    "category": "Eligibility",
+    "group": "Eligibility",
+    "question": "Can a diploma holder join directly in the second year?",
+    "answer": "DCE says eligible diploma holders may apply for lateral entry into the second year/third semester, subject to the applicable rules.",
+    "sourceUrl": "https://dce.edu.in/admissions-dce/",
+    "sourceUrls": [
+      "https://dce.edu.in/admissions-dce/"
+    ],
+    "verificationStatus": "Verified generally; confirm specific eligibility",
+    "verificationLevel": "verified"
+  },
+  {
+    "id": "FAQ-019",
+    "category": "Deadlines",
+    "group": "Admissions",
+    "question": "When does the 2026 application registration begin?",
+    "answer": "The dates table on the DCE admissions page has a blank field for the registration start date. The chatbot must not guess; contact DCE or check the current official counselling notice.",
+    "sourceUrl": "https://dce.edu.in/admissions-dce/",
+    "sourceUrls": [
+      "https://dce.edu.in/admissions-dce/"
+    ],
+    "verificationStatus": "Needs human verification",
+    "verificationLevel": "unverified"
+  },
+  {
+    "id": "FAQ-020",
+    "category": "Deadlines",
+    "group": "Admissions",
+    "question": "What is the last date to apply for 2026 admission?",
+    "answer": "The DCE admissions page currently shows the last-date field without a date. Please check the current official notice or contact the Admissions Office.",
+    "sourceUrl": "https://dce.edu.in/admissions-dce/",
+    "sourceUrls": [
+      "https://dce.edu.in/admissions-dce/"
+    ],
+    "verificationStatus": "Needs human verification",
+    "verificationLevel": "unverified"
+  },
+  {
+    "id": "FAQ-021",
+    "category": "Deadlines",
+    "group": "Admissions",
+    "question": "When does certificate uploading begin?",
+    "answer": "The DCE admissions page has a blank field for the certificate-uploading start date. Check the official TNEA notice or contact DCE for confirmation.",
+    "sourceUrl": "https://dce.edu.in/admissions-dce/",
+    "sourceUrls": [
+      "https://dce.edu.in/admissions-dce/",
+      "https://www.tneaonline.org/"
+    ],
+    "verificationStatus": "Needs human verification",
+    "verificationLevel": "unverified"
+  },
+  {
+    "id": "FAQ-022",
+    "category": "Fees",
+    "group": "Fees",
+    "question": "What is the tuition fee for each engineering programme?",
+    "answer": "The admissions page directs applicants to the Admissions Office for accurate and updated fee details. This source does not provide a confirmed programme-wise fee table.",
+    "sourceUrl": "https://dce.edu.in/admissions-dce/",
+    "sourceUrls": [
+      "https://dce.edu.in/admissions-dce/"
+    ],
+    "verificationStatus": "Needs human verification",
+    "verificationLevel": "unverified"
+  },
+  {
+    "id": "FAQ-023",
+    "category": "Fees",
+    "group": "Fees",
+    "question": "Are hostel and transport fees included in tuition?",
+    "answer": "The reviewed admissions source does not establish a current fee breakdown for hostel and transport. Ask the Admissions Office for an itemized, current fee structure.",
+    "sourceUrl": "https://dce.edu.in/contact/",
+    "sourceUrls": [
+      "https://dce.edu.in/contact/"
+    ],
+    "verificationStatus": "Needs human verification",
+    "verificationLevel": "unverified"
+  },
+  {
+    "id": "FAQ-024",
+    "category": "Fees",
+    "group": "Fees",
+    "question": "How can I confirm the official fee structure?",
+    "answer": "Contact DCE Admissions and request the current written fee structure for your programme and admission route.",
+    "sourceUrl": "https://dce.edu.in/contact/",
+    "sourceUrls": [
+      "https://dce.edu.in/contact/"
+    ],
+    "verificationStatus": "Verified contact route; fee amount unavailable",
+    "verificationLevel": "verified"
+  },
+  {
+    "id": "FAQ-025",
+    "category": "Scholarships",
+    "group": "Scholarships",
+    "question": "Are scholarships available?",
+    "answer": "DCE says eligible students may apply for government and institutional scholarship schemes, subject to applicable norms and verification.",
+    "sourceUrl": "https://dce.edu.in/admissions-dce/",
+    "sourceUrls": [
+      "https://dce.edu.in/admissions-dce/"
+    ],
+    "verificationStatus": "Verified generally; scheme details need confirmation",
+    "verificationLevel": "verified"
+  },
+  {
+    "id": "FAQ-026",
+    "category": "Scholarships",
+    "group": "Scholarships",
+    "question": "What scholarship amount can I receive?",
+    "answer": "The reviewed admissions page does not specify current scholarship amounts. Contact the college and the relevant scholarship authority for eligibility and amount details.",
+    "sourceUrl": "https://dce.edu.in/admissions-dce/",
+    "sourceUrls": [
+      "https://dce.edu.in/admissions-dce/"
+    ],
+    "verificationStatus": "Needs human verification",
+    "verificationLevel": "unverified"
+  },
+  {
+    "id": "FAQ-027",
+    "category": "Documents",
+    "group": "Documents",
+    "question": "Which documents must I submit for admission?",
+    "answer": "The exact document checklist depends on the admission route and current counselling instructions. Consult the current TNEA brochure or ask DCE Admissions for the official checklist.",
+    "sourceUrl": "https://www.tneaonline.org/",
+    "sourceUrls": [
+      "https://www.tneaonline.org/",
+      "https://dce.edu.in/contact/"
+    ],
+    "verificationStatus": "Needs route-specific verification",
+    "verificationLevel": "unverified"
+  },
+  {
+    "id": "FAQ-028",
+    "category": "Documents",
+    "group": "Documents",
+    "question": "Do I need to upload certificates during TNEA?",
+    "answer": "DCE describes certificate uploading as a step in the TNEA process, but the applicable dates and required documents must be checked in the current TNEA instructions.",
+    "sourceUrl": "https://dce.edu.in/admissions-dce/",
+    "sourceUrls": [
+      "https://dce.edu.in/admissions-dce/",
+      "https://www.tneaonline.org/"
+    ],
+    "verificationStatus": "Needs current-year verification",
+    "verificationLevel": "unverified"
+  },
+  {
+    "id": "FAQ-029",
+    "category": "Documents",
+    "group": "Documents",
+    "question": "Can I apply with an equivalent qualifying examination?",
+    "answer": "DCE states that HSC or an equivalent examination may meet the basic pathway, subject to the prescribed criteria. Confirm equivalence and subject rules with the admissions office.",
+    "sourceUrl": "https://dce.edu.in/admissions-dce/",
+    "sourceUrls": [
+      "https://dce.edu.in/admissions-dce/"
+    ],
+    "verificationStatus": "Partially verified; confirm individual qualification",
+    "verificationLevel": "partial"
+  },
+  {
+    "id": "FAQ-030",
+    "category": "Hostel",
+    "group": "Campus Facilities",
+    "question": "Does DCE provide hostel facilities?",
+    "answer": "The DCE admissions FAQ states that hostel facilities are available, subject to availability and institutional guidelines. Confirm current availability, rules, and charges with the college.",
+    "sourceUrl": "https://dce.edu.in/admissions-dce/",
+    "sourceUrls": [
+      "https://dce.edu.in/admissions-dce/"
+    ],
+    "verificationStatus": "Verified generally; current availability needs confirmation",
+    "verificationLevel": "verified"
+  },
+  {
+    "id": "FAQ-031",
+    "category": "Transport",
+    "group": "Campus Facilities",
+    "question": "Does DCE provide transport facilities?",
+    "answer": "The DCE admissions FAQ states that transport facilities are available, subject to availability and institutional guidelines. Contact the college for routes and charges.",
+    "sourceUrl": "https://dce.edu.in/admissions-dce/",
+    "sourceUrls": [
+      "https://dce.edu.in/admissions-dce/"
+    ],
+    "verificationStatus": "Verified generally; routes and charges need confirmation",
+    "verificationLevel": "verified"
+  },
+  {
+    "id": "FAQ-032",
+    "category": "Intake",
+    "group": "Courses",
+    "question": "Where can I check programme-wise seat intake?",
+    "answer": "DCE says approved programme-wise intake information is available through the intake information link on its admissions page. Confirm the current approval year.",
+    "sourceUrl": "https://dce.edu.in/admissions-dce/",
+    "sourceUrls": [
+      "https://dce.edu.in/admissions-dce/"
+    ],
+    "verificationStatus": "Needs current-year intake confirmation",
+    "verificationLevel": "unverified"
+  },
+  {
+    "id": "FAQ-033",
+    "category": "Placements",
+    "group": "Campus Facilities",
+    "question": "What is the highest placement package at DCE?",
+    "answer": "The DCE website displays placement figures, but figures can change by reporting year and cohort. Check the latest official placement report and its reporting period before quoting a package.",
+    "sourceUrl": "https://dce.edu.in/",
+    "sourceUrls": [
+      "https://dce.edu.in/"
+    ],
+    "verificationStatus": "Needs source/year verification",
+    "verificationLevel": "unverified"
+  },
+  {
+    "id": "FAQ-034",
+    "category": "Placements",
+    "group": "Campus Facilities",
+    "question": "Which companies recruit DCE students?",
+    "answer": "The DCE website includes a recruiters section. Use the current official placement information to confirm the company list and reporting year.",
+    "sourceUrl": "https://dce.edu.in/",
+    "sourceUrls": [
+      "https://dce.edu.in/"
+    ],
+    "verificationStatus": "Needs current placement-report verification",
+    "verificationLevel": "unverified"
+  },
+  {
+    "id": "FAQ-035",
+    "category": "Admissions",
+    "group": "Contact & Support",
+    "question": "How can I contact DCE Admissions?",
+    "answer": "The DCE contact page lists 98416 55959, 89 39 873 200, and 89 39 873 500. Verify the contact details on the official site before use.",
+    "sourceUrl": "https://dce.edu.in/contact/",
+    "sourceUrls": [
+      "https://dce.edu.in/contact/"
+    ],
+    "verificationStatus": "Verified on contact page",
+    "verificationLevel": "verified"
+  },
+  {
+    "id": "FAQ-036",
+    "category": "Admissions",
+    "group": "Contact & Support",
+    "question": "What is the official DCE admissions email?",
+    "answer": "The reviewed contact page lists principal@dce.edu.in as an email contact. Confirm the preferred admissions email or enquiry channel with the college.",
+    "sourceUrl": "https://dce.edu.in/contact/",
+    "sourceUrls": [
+      "https://dce.edu.in/contact/"
+    ],
+    "verificationStatus": "Needs confirmation that this is the preferred admissions email",
+    "verificationLevel": "unverified"
+  },
+  {
+    "id": "FAQ-037",
+    "category": "Admissions",
+    "group": "Contact & Support",
+    "question": "Where is DCE located?",
+    "answer": "The official contact page lists DCE at Dr VPR Nagar, Manimangalam, Tambaram, Chennai – 601 301.",
+    "sourceUrl": "https://dce.edu.in/contact/",
+    "sourceUrls": [
+      "https://dce.edu.in/contact/"
+    ],
+    "verificationStatus": "Verified on contact page",
+    "verificationLevel": "verified"
+  },
+  {
+    "id": "FAQ-038",
+    "category": "Admissions",
+    "group": "Admissions",
+    "question": "Can the chatbot guarantee that I will be admitted?",
+    "answer": "No. The chatbot cannot guarantee admission or make selection decisions. Admission depends on applicable eligibility, counselling, seat availability, verification, and institutional rules.",
+    "sourceUrl": "https://dce.edu.in/admissions-dce/",
+    "sourceUrls": [
+      "https://dce.edu.in/admissions-dce/"
+    ],
+    "verificationStatus": "Policy response; do not promise outcomes",
+    "verificationLevel": "policy"
+  },
+  {
+    "id": "FAQ-039",
+    "category": "Human escalation",
+    "group": "Contact & Support",
+    "question": "What if the chatbot cannot answer my question?",
+    "answer": "The chatbot should say it cannot verify the information and direct the student to DCE Admissions. If escalation automation is enabled, it may log the question for staff review; it must not claim staff were contacted unless confirmed.",
+    "sourceUrl": "https://dce.edu.in/contact/",
+    "sourceUrls": [
+      "https://dce.edu.in/contact/"
+    ],
+    "verificationStatus": "Project rule; test escalation workflow",
+    "verificationLevel": "policy"
+  },
+  {
+    "id": "FAQ-040",
+    "category": "Human escalation",
+    "group": "Contact & Support",
+    "question": "How can I ask about an unusual case or eligibility exception?",
+    "answer": "Contact DCE Admissions directly for a case-specific decision. The chatbot should not interpret exceptions or promise approval.",
+    "sourceUrl": "https://dce.edu.in/contact/",
+    "sourceUrls": [
+      "https://dce.edu.in/contact/"
+    ],
+    "verificationStatus": "Human review required",
+    "verificationLevel": "unverified"
+  }
+]
